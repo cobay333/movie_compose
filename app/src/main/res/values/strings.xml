@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_dialog">Search your favorite movie</string>
+    <string name="hint_search">Movie name</string>
+</resources>
